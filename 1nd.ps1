@@ -10,9 +10,9 @@
 #Start-MpScan
 #unblock-file
 
-#atsisiuntimo nuoroda: https://drive.google.com/uc?export=download&id=1-I85kpgXtSvv5wYVliuGq1fbXpaG99Hz
-#cd "C:\Users\20194573\OneDrive - Vilniaus Gedimino technikos universitetas\Operacinės sistemos\Atsiskaitymai\1 Namų darbas"
-#cd "C:\Users\d3ivu\OneDrive - Vilniaus Gedimino technikos universitetas\Operacinės sistemos\Atsiskaitymai\1 Namų darbas"
+#atsisiuntimo nuoroda: -
+#cd "C:\Users\-\OneDrive - Vilniaus Gedimino technikos universitetas\Operacinės sistemos\Atsiskaitymai\1 Namų darbas"
+#cd "C:\Users\-\OneDrive - Vilniaus Gedimino technikos universitetas\Operacinės sistemos\Atsiskaitymai\1 Namų darbas"
 #cd ~
 
 
